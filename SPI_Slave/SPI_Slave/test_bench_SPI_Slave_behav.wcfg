@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_bench_SPI_Slave_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="test_bench_SPI_Slave" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="163801fs"></ZoomEndTime>
+      <Cursor1Time time="223689fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="186"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/test_bench_SPI_Slave/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/SCK" type="logic">
+      <obj_property name="ElementShortName">SCK</obj_property>
+      <obj_property name="ObjectShortName">SCK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/MOSI" type="logic">
+      <obj_property name="ElementShortName">MOSI</obj_property>
+      <obj_property name="ObjectShortName">MOSI</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/MISO" type="logic">
+      <obj_property name="ElementShortName">MISO</obj_property>
+      <obj_property name="ObjectShortName">MISO</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/SS" type="logic">
+      <obj_property name="ElementShortName">SS</obj_property>
+      <obj_property name="ObjectShortName">SS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/tx_data" type="array">
+      <obj_property name="ElementShortName">tx_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/Slave/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/Slave/SCK" type="logic">
+      <obj_property name="ElementShortName">SCK</obj_property>
+      <obj_property name="ObjectShortName">SCK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/Slave/MOSI" type="logic">
+      <obj_property name="ElementShortName">MOSI</obj_property>
+      <obj_property name="ObjectShortName">MOSI</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/Slave/MISO" type="logic">
+      <obj_property name="ElementShortName">MISO</obj_property>
+      <obj_property name="ObjectShortName">MISO</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/Slave/SS" type="logic">
+      <obj_property name="ElementShortName">SS</obj_property>
+      <obj_property name="ObjectShortName">SS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/Slave/tx_data" type="array">
+      <obj_property name="ElementShortName">tx_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">tx_data[7:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/Slave/rx_data" type="array">
+      <obj_property name="ElementShortName">rx_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_data[7:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/Slave/bit_cnt" type="array">
+      <obj_property name="ElementShortName">bit_cnt[2:0]</obj_property>
+      <obj_property name="ObjectShortName">bit_cnt[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench_SPI_Slave/Slave/rx_reg" type="array">
+      <obj_property name="ElementShortName">rx_reg[7:0]</obj_property>
+      <obj_property name="ObjectShortName">rx_reg[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>
